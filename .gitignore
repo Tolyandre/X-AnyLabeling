@@ -183,3 +183,7 @@ pnnx*
 
 # calibration image
 calibration_*.npy
+
+# Nix / direnv
+.direnv/
+result
